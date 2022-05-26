@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My favourite equation is: 
+
+$$
+e^{A+B} = \lim_{n \rightarrow \infty} (e^{A/n}e^{B/n})^n,
+$$ 
+
+for any real square matrices $A,\ B$.
+
+I work as an ML researcher, currently interested in Bayesian methods, LLMs, and (learning about) causal inference. 
+
 <!--
 **kgourgou/kgourgou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
