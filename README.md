@@ -8,7 +8,7 @@ $$
 
 for any real square matrices $A,\ B$.
 
-I work as an ML researcher, currently interested in Bayesian methods, (pre-trained) language models, and (learning about) causal inference. 
+I work as an ML researcher, currently interested in Bayesian modelling, (pre-trained) language models, (learning about) causal inference, and using ideas from information theory on the above. 
 
 Some examples of things I've worked on 🚀 
 
