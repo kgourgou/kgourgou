@@ -8,7 +8,14 @@ $$
 
 for any real square matrices $A,\ B$.
 
-I work as an ML researcher, currently interested in Bayesian methods, LLMs, and (learning about) causal inference. 
+I work as an ML researcher, currently interested in Bayesian methods, (pre-trained) language models, and (learning about) causal inference. 
+
+Some examples of things I've worked on 🚀 
+
+- inference for large Bayesian networks with neural nets,
+- coupled RL methods to environments simulated by neural ODEs,
+- used information theory to study how parallized simulators behave at long times,
+- and connected different aspects of model error with each other. 
 
 <!--
 **kgourgou/kgourgou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
