@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My favourite result this year is the Plancherel theorem
+My favourite result this year is the [Plancherel theorem](https://en.wikipedia.org/wiki/Plancherel_theorem)
 
 $$
 \int_{-\infty}^\infty |f(x)|^2 \, dx = \int_{-\infty}^\infty |\widehat{f}(\xi)|^2  \, d\xi.
