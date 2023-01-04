@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-My favourite equation is: 
+My favourite result this year is the Plancherel theorem
 
 $$
-e^{A+B} = \lim_{n \rightarrow \infty} (e^{A/n}e^{B/n})^n,
+\int_{-\infty}^\infty |f(x)|^2 \, dx = \int_{-\infty}^\infty |\widehat{f}(\xi)|^2  \, d\xi.
 $$ 
 
-for any real square matrices $A,\ B$.
+
 
 I work as an ML researcher, currently interested in Bayesian modelling, (pre-trained) language models, (learning about) causal inference, and using ideas from information theory on the above. 
 
