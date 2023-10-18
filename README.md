@@ -3,7 +3,7 @@
 
 I work as an ML researcher, currently interested in Bayesian modelling, (pre-trained) language models, (learning about) causal inference, and using ideas from information theory on the above. 
 
-I'm also slowly working through the basics of category theory. I'd love to understand how ideas from cat. theory map to applied questions, e.g., the work of Fong, Spivak, et al., with Bayesian networks and data manipulations. 
+I'm also slowly working through the basics of category theory as well as persistent homology. I'd love to understand how ideas from cat. theory map to applied questions, e.g., the work of Fong, Spivak, et al., with Bayesian networks and data manipulations. For persistent homology, I want to see how tools can be used to learn more about how language models tick. 
 
 <!--
 **kgourgou/kgourgou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
